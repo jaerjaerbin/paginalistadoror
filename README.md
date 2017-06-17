@@ -1,4 +1,4 @@
-#Pagina listado RoR
+# Pagina listado RoR
 ---
 
 Pequeña aplicacion creada en el curso Ruby on Rails: An Introduction John Hopkins University
